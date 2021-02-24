@@ -13,7 +13,7 @@
 	- [ ] [Theme UI](https://github.com/system-ui/theme-ui)
 - [ ] [React Router V4](https://github.com/ReactTraining/react-router)
 - [ ] [React Redux Toolkit](https://github.com/reduxjs/redux-toolkit)
-- [ ] [Fractal](https://hackernoon.com/fractal-a-react-app-structure-for-infinite-scale-4dab943092af) structure for file organization
+- [X] [Fractal](https://hackernoon.com/fractal-a-react-app-structure-for-infinite-scale-4dab943092af) structure for file organization
 - [ ] **Optional [Heroku](https://heroku.com/) integration**
 - [ ]  + More TBD as I go
 
