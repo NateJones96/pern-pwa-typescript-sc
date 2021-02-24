@@ -10,7 +10,7 @@ app.get('/', function (req, res) {
 
 app.use('/docs', docs);
 
-// process.env.port || required for Heroku
+// "process.env.PORT ||" required for Heroku
 const port = process.env.PORT || 5000;
 
 app.listen(port, () => console.log('Server running on port', port));
