@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', function (req, res) {
-	res.send('The server is working');
+	res.send('The api is working');
 });
 
 // process.env.port || required for Heroku
