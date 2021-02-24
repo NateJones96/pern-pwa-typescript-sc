@@ -1,7 +1,9 @@
 import express from 'express';
 const app = express();
 
-// Routes
+// Routes for API
+// Using structure found in this example: https://stackoverflow.com/a/37309212/4372734
+// Non-root routes found in /routes folder (say that 5 times fast)
 const docs = require('./server/api/docs.js');
 
 app.get('/', function (req, res) {
