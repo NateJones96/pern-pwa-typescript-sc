@@ -3,15 +3,18 @@
 ## Goals
 
 - [ ] **PERN** stack (PostgreSQL, Express, React, Node)
-- [ ] **Progressive Web App**
+- [ ] **Progressive Web App** 
 	- [ ] *Add to Home Screen* functionality
 	- [ ] Offline caching with service workers
 	- [ ] Mobile first approach
 - [ ] **Typescript**
-- [ ] **Styled Components**
-	- [ ] Rebassjs UI Component Library
-	- [ ] Theme UI
-- [ ] **Optional Heroku integration**
+- [ ] **[Styled Components](https://github.com/styled-components/styled-components)**
+	- [ ] [Rebassjs UI Component Library](https://github.com/rebassjs/rebass)
+	- [ ] [Theme UI](https://github.com/system-ui/theme-ui)
+- [ ] [React Router V4](https://github.com/ReactTraining/react-router)
+- [ ] [React Redux Toolkit](https://github.com/reduxjs/redux-toolkit)
+- [ ] [Fractal](https://hackernoon.com/fractal-a-react-app-structure-for-infinite-scale-4dab943092af) structure for file organization
+- [ ] **Optional [Heroku](https://heroku.com/) integration**
 - [ ]  + More TBD as I go
 
 # Getting Started with Create React App
