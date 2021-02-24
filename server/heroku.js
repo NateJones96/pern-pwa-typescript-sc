@@ -1,4 +1,5 @@
-import { app, express } from './server.js';
+const express = require('express');
+const app = express();
 const path = require('path');
 
 // NODE_ENV is set to production on Heroku build
