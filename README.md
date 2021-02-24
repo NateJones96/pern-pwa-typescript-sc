@@ -1,5 +1,19 @@
 # UNDER DEVELOPMENT, NOT READY BUT FEEL FREE TO CONTRIBUTE
 
+## Goals
+
+- [ ] **PERN** stack (PostgreSQL, Express, React, Node)
+- [ ] **Progressive Web App**
+	- [ ] *Add to Home Screen* functionality
+	- [ ] Offline caching with service workers
+	- [ ] Mobile first approach
+- [ ] **Typescript**
+- [ ] **Styled Components**
+	- [ ] Rebassjs UI Component Library
+	- [ ] Theme UI
+- [ ] **Optional Heroku integration**
+- [ ]  + More TBD as I go
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
