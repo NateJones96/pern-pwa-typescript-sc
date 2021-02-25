@@ -1,10 +1,11 @@
-const express = require('express');
-const router = express.Router();
+import express, { Request, Response, Router } from 'express';
 
-const exampleRoute = require('./example-route.js');
+const router: Router = express.Router();
+
+const exampleRoute = require('./example-route.ts');
 
 // Add router binding to /docs, not actual root view
-router.get('/', function (req, res) {
+router.get('/', function (req: Request, res: Response) {
 	res.send('The docs are working');
 });
 
