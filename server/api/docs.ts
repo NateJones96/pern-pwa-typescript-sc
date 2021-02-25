@@ -5,21 +5,21 @@ const exampleRoute = require('./example-route.ts');
 
 // Example json data. Go to localhost:5000/api/docs to test
 const exampleData = [
-    {
-        id: 1,
+	{
+		id: 1,
 		firstName: 'Nate',
 		lastName: 'Jones',
 	},
-    {
-        id: 2,
-        firstName: 'John',
-        lastName: 'Doe',
-    },
+	{
+		id: 2,
+		firstName: 'John',
+		lastName: 'Doe',
+	},
 	{
 		id: 3,
 		firstName: 'Mary',
 		lastName: 'Swanson',
-	}
+	},
 ];
 
 // Add router binding to /docs, not actual root view
